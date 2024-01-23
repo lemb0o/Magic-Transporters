@@ -99,3 +99,7 @@
 {"details":{"moverId":"65af1676c1445f8b233ae645"},"level":"info","message":"Mission started","timestamp":"2024-01-23T01:33:13.595Z"}
 {"details":{"moverId":"65af1676c1445f8b233ae645"},"level":"info","message":"Mission ended, items unloaded","timestamp":"2024-01-23T01:33:46.302Z"}
 {"details":{"itemId":"65af16a1c1445f8b233ae650","moverId":"65af168cc1445f8b233ae649"},"level":"info","message":"Item loaded, Mover is now loading","timestamp":"2024-01-23T01:34:45.663Z"}
+{"details":{"itemId":"65af2671d72d5b6421715cd0","moverId":"65af2667d72d5b6421715ccb"},"level":"info","message":"Item loaded, Mover is now loading","timestamp":"2024-01-23T02:54:50.392Z"}
+{"details":{"moverId":"65af2667d72d5b6421715ccb"},"level":"error","message":"Mover cannot end mission while not on a mission","timestamp":"2024-01-23T02:55:02.165Z"}
+{"details":{"moverId":"65af2667d72d5b6421715ccb"},"level":"info","message":"Mission started","timestamp":"2024-01-23T02:55:09.061Z"}
+{"details":{"moverId":"65af2667d72d5b6421715ccb"},"level":"info","message":"Mission ended, items unloaded","timestamp":"2024-01-23T02:55:20.816Z"}

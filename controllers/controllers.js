@@ -13,15 +13,25 @@ const logActivity = (level, message, details) => {
   });
 };
 
+// List the mover with the most completed missions
 exports.listMostCompletedMissions = async (req, res) => {
-    try {
-      const mostCompletedMover = await MagicMover.findOne().sort({ completedMissions: -1 }); // Find the mover with the most completed missions
-      res.status(200).json({ mostCompletedMover });
-    } catch (error) {
-      console.log('error', 'Error listing most completed missions', { error: error.message });
-      res.status(500).json({ error: 'Internal Server Error' });
+  try {
+    const mostCompletedMover = await MagicMover.findOne()
+      .sort({ completedMissions: -1 })
+      .select('name completedMissions'); // Only select the name and completedMissions fields
+
+    if (!mostCompletedMover || mostCompletedMover.completedMissions === 0) {
+      return res.status(404).json({ error: 'No mover with completed missions found' });
     }
-  };
+
+    res.status(200).json(mostCompletedMover);
+  } catch (error) {
+    console.log('error', 'Error listing most completed missions', { error: error.message });
+    res.status(500).json({ error: 'Internal Server Error' });
+  }
+};
+
+
   
 
 
