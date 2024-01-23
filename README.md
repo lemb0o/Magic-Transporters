@@ -1,14 +1,17 @@
 
 ### Task
 ***START**
+
 **Introduction**
 Welcome to Magic Transporters, the future of moving things easily. These super cool
 transporters, powered by virtual magic, are here to make shipping stuff a breeze.
+
 **Overview**
 In the world of Magic Transporters, there are special people known as Magic
 Movers. They use nifty gadgets to move important things. Fueled by virtual magic,
 these Movers go on quick missions to carry items around.
 A Magic Mover has:
+
 • Weight limit (the most they can carry);
 • Energy (their total magic power);
 • Quest state (what they’re currently doing: resting, loading, on a mission, or
@@ -25,6 +28,8 @@ loading more, creating a log of this activitiy (on a mission);
 • End a Mission — unload everything from the Magic Mover, creating a log of
 this activitiy (mission complete / done);
 • Check who completed the most missions with a simple list.
+
+
 **Requirements**
 Follow these simple rules:
 **Functional requirements**
