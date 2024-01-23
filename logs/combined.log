@@ -1,0 +1,101 @@
+{"level":"info","message":"POST /mover","timestamp":"2024-01-23T00:38:03.648Z"}
+{"details":{"moverId":"65af0a6b8f540890c14fedef"},"level":"info","message":"Magic Mover added","timestamp":"2024-01-23T00:38:03.677Z"}
+{"level":"info","message":"POST /item","timestamp":"2024-01-23T00:38:23.131Z"}
+{"details":{"itemId":"65af0a7f8f540890c14fedf1"},"level":"info","message":"Magic Item added","timestamp":"2024-01-23T00:38:23.146Z"}
+{"level":"info","message":"POST /item","timestamp":"2024-01-23T00:38:24.460Z"}
+{"details":{"itemId":"65af0a808f540890c14fedf3"},"level":"info","message":"Magic Item added","timestamp":"2024-01-23T00:38:24.466Z"}
+{"level":"info","message":"POST /item","timestamp":"2024-01-23T00:38:25.959Z"}
+{"details":{"itemId":"65af0a818f540890c14fedf5"},"level":"info","message":"Magic Item added","timestamp":"2024-01-23T00:38:25.968Z"}
+{"level":"info","message":"POST /item","timestamp":"2024-01-23T00:41:32.404Z"}
+{"details":{"itemId":"65af0b3ce5e83bafb2562f3e"},"level":"info","message":"Magic Item added","timestamp":"2024-01-23T00:41:32.429Z"}
+{"level":"info","message":"POST /item","timestamp":"2024-01-23T00:41:34.720Z"}
+{"details":{"itemId":"65af0b3ee5e83bafb2562f40"},"level":"info","message":"Magic Item added","timestamp":"2024-01-23T00:41:34.727Z"}
+{"level":"info","message":"POST /mover","timestamp":"2024-01-23T00:41:39.270Z"}
+{"level":"info","message":"POST /mover","timestamp":"2024-01-23T00:42:47.737Z"}
+{"level":"info","message":"POST /item","timestamp":"2024-01-23T00:42:51.457Z"}
+{"level":"info","message":"POST /mover","timestamp":"2024-01-23T00:46:46.019Z"}
+{"details":{"moverId":"65af0c76501b755057e92ff9"},"level":"info","message":"Magic Mover added","timestamp":"2024-01-23T00:46:46.047Z"}
+{"level":"info","message":"POST /mover","timestamp":"2024-01-23T00:46:54.493Z"}
+{"level":"info","message":"POST /mover","timestamp":"2024-01-23T00:47:14.127Z"}
+{"details":{"moverId":"65af0c92501b755057e92ffd"},"level":"info","message":"Magic Mover added","timestamp":"2024-01-23T00:47:14.146Z"}
+{"level":"info","message":"POST /mover","timestamp":"2024-01-23T00:47:16.531Z"}
+{"level":"info","message":"POST /mover","timestamp":"2024-01-23T00:47:21.461Z"}
+{"level":"info","message":"POST /mover","timestamp":"2024-01-23T00:47:30.221Z"}
+{"details":{"error":"\"energy\" is required"},"level":"error","message":"Validation error adding Magic Mover","timestamp":"2024-01-23T00:47:30.223Z"}
+{"level":"info","message":"POST /mover","timestamp":"2024-01-23T00:47:39.614Z"}
+{"level":"info","message":"POST /mover","timestamp":"2024-01-23T00:47:56.508Z"}
+{"details":{"moverId":"65af0cbc501b755057e93002"},"level":"info","message":"Magic Mover added","timestamp":"2024-01-23T00:47:56.528Z"}
+{"level":"info","message":"POST /mover","timestamp":"2024-01-23T00:48:08.266Z"}
+{"level":"info","message":"POST /mover","timestamp":"2024-01-23T00:48:35.097Z"}
+{"details":{"moverId":"65af0ce3501b755057e93006"},"level":"info","message":"Magic Mover added","timestamp":"2024-01-23T00:48:35.127Z"}
+{"level":"info","message":"POST /item","timestamp":"2024-01-23T00:49:26.497Z"}
+{"details":{"itemId":"65af0d16501b755057e93009"},"level":"info","message":"Magic Item added","timestamp":"2024-01-23T00:49:26.524Z"}
+{"level":"info","message":"POST /item","timestamp":"2024-01-23T00:49:29.314Z"}
+{"level":"info","message":"POST /item","timestamp":"2024-01-23T00:49:42.583Z"}
+{"details":{"itemId":"65af0d26501b755057e9300d"},"level":"info","message":"Magic Item added","timestamp":"2024-01-23T00:49:42.623Z"}
+{"level":"info","message":"POST /item","timestamp":"2024-01-23T00:49:56.811Z"}
+{"details":{"itemId":"65af0d34501b755057e93010"},"level":"info","message":"Magic Item added","timestamp":"2024-01-23T00:49:56.825Z"}
+{"level":"info","message":"POST /item","timestamp":"2024-01-23T00:50:27.480Z"}
+{"details":{"itemId":"65af0d53501b755057e93013"},"level":"info","message":"Magic Item added","timestamp":"2024-01-23T00:50:27.510Z"}
+{"level":"info","message":"POST /mover/65af0c76501b755057e92ff9/load/","timestamp":"2024-01-23T00:51:31.868Z"}
+{"details":{"itemId":"65af0d16501b755057e93009","moverId":"65af0c76501b755057e92ff9"},"level":"info","message":"Item loaded, Mover is now loading","timestamp":"2024-01-23T00:51:31.899Z"}
+{"level":"info","message":"POST /mover/65af0c76501b755057e92ff9/load/","timestamp":"2024-01-23T00:51:34.044Z"}
+{"details":{"itemId":"65af0d16501b755057e93009","moverId":"65af0c76501b755057e92ff9"},"level":"warn","message":"Item is already loaded to the Mover","timestamp":"2024-01-23T00:51:34.054Z"}
+{"level":"info","message":"POST /mover/65af0c76501b755057e92ff9/load/","timestamp":"2024-01-23T00:51:52.282Z"}
+{"level":"info","message":"POST /mover/65af0c76501b755057e92ff9/load/","timestamp":"2024-01-23T00:52:01.648Z"}
+{"details":{"itemId":"65af0d34501b755057e93010","moverId":"65af0c76501b755057e92ff9"},"level":"info","message":"Item loaded, Mover is now loading","timestamp":"2024-01-23T00:52:01.676Z"}
+{"level":"info","message":"POST /mover/65af0c76501b755057e92ff9/load/","timestamp":"2024-01-23T00:52:40.942Z"}
+{"level":"info","message":"POST /mover/65af0c76501b755057e92ff9/load/","timestamp":"2024-01-23T00:53:06.628Z"}
+{"details":{"itemId":"65af0d26501b755057e9300d","moverId":"65af0c76501b755057e92ff9"},"level":"info","message":"Item loaded, Mover is now loading","timestamp":"2024-01-23T00:53:06.663Z"}
+{"level":"info","message":"POST /mover/65af0c76501b755057e92ff9/load/","timestamp":"2024-01-23T00:53:08.040Z"}
+{"details":{"itemId":"65af0d26501b755057e9300d","moverId":"65af0c76501b755057e92ff9"},"level":"warn","message":"Item is already loaded to the Mover","timestamp":"2024-01-23T00:53:08.046Z"}
+{"level":"info","message":"POST /mover/65af0c76501b755057e92ff9/load/","timestamp":"2024-01-23T00:53:26.177Z"}
+{"level":"info","message":"POST /mover/65af0c92501b755057e92ffd/load/","timestamp":"2024-01-23T00:53:55.819Z"}
+{"level":"info","message":"POST /mover/65af0c92501b755057e92ffd/load/","timestamp":"2024-01-23T00:54:23.654Z"}
+{"details":{"itemId":"65af0d34501b755057e93010","moverId":"65af0c92501b755057e92ffd"},"level":"info","message":"Item loaded, Mover is now loading","timestamp":"2024-01-23T00:54:23.683Z"}
+{"level":"info","message":"POST /mover","timestamp":"2024-01-23T00:58:07.388Z"}
+{"details":{"moverId":"65af0f1fed49f652891d1f35"},"level":"info","message":"Magic Mover added","timestamp":"2024-01-23T00:58:07.458Z"}
+{"level":"info","message":"POST /mover","timestamp":"2024-01-23T00:58:15.168Z"}
+{"details":{"moverId":"65af0f27ed49f652891d1f38"},"level":"info","message":"Magic Mover added","timestamp":"2024-01-23T00:58:15.204Z"}
+{"level":"info","message":"POST /item","timestamp":"2024-01-23T00:58:19.250Z"}
+{"details":{"itemId":"65af0f2bed49f652891d1f3b"},"level":"info","message":"Magic Item added","timestamp":"2024-01-23T00:58:19.314Z"}
+{"level":"info","message":"POST /mover/65af0f1fed49f652891d1f35/load/","timestamp":"2024-01-23T00:58:45.922Z"}
+{"details":{"itemId":"65af0f2bed49f652891d1f3b","moverId":"65af0f1fed49f652891d1f35"},"level":"info","message":"Item loaded, Mover is now loading","timestamp":"2024-01-23T00:58:45.956Z"}
+{"level":"info","message":"POST /mover/65af0f27ed49f652891d1f38/load/","timestamp":"2024-01-23T00:59:20.681Z"}
+{"details":{"itemId":"65af0f2bed49f652891d1f3b","moverId":"65af0f27ed49f652891d1f38"},"level":"info","message":"Item loaded, Mover is now loading","timestamp":"2024-01-23T00:59:20.714Z"}
+{"level":"info","message":"POST /mover","timestamp":"2024-01-23T01:04:02.582Z"}
+{"details":{"moverId":"65af108260af331acc987207"},"level":"info","message":"Magic Mover added","timestamp":"2024-01-23T01:04:02.615Z"}
+{"level":"info","message":"POST /mover","timestamp":"2024-01-23T01:04:09.514Z"}
+{"details":{"moverId":"65af108960af331acc98720a"},"level":"info","message":"Magic Mover added","timestamp":"2024-01-23T01:04:09.529Z"}
+{"level":"info","message":"POST /mover","timestamp":"2024-01-23T01:04:11.445Z"}
+{"level":"info","message":"POST /mover/65af108260af331acc987207/load/","timestamp":"2024-01-23T01:04:29.834Z"}
+{"details":{"itemId":"65af0f2bed49f652891d1f3b","moverId":"65af108260af331acc987207"},"level":"info","message":"Item loaded, Mover is now loading","timestamp":"2024-01-23T01:04:29.873Z"}
+{"level":"info","message":"POST /mover/65af108960af331acc98720a/load/","timestamp":"2024-01-23T01:04:39.741Z"}
+{"level":"info","message":"POST /item","timestamp":"2024-01-23T01:05:00.268Z"}
+{"details":{"itemId":"65af10bc60af331acc987214"},"level":"info","message":"Magic Item added","timestamp":"2024-01-23T01:05:00.282Z"}
+{"level":"info","message":"POST /mover/65af108960af331acc98720a/load/","timestamp":"2024-01-23T01:05:18.367Z"}
+{"details":{"itemId":"65af10bc60af331acc987214","moverId":"65af108960af331acc98720a"},"level":"info","message":"Item loaded, Mover is now loading","timestamp":"2024-01-23T01:05:18.396Z"}
+{"level":"info","message":"POST /mover/65af108260af331acc987207/start-mission/","timestamp":"2024-01-23T01:08:03.424Z"}
+{"details":{"moverId":"65af108260af331acc987207"},"level":"info","message":"Mission started","timestamp":"2024-01-23T01:08:03.443Z"}
+{"level":"info","message":"POST /mover/65af108260af331acc987207/start-mission/","timestamp":"2024-01-23T01:08:05.138Z"}
+{"level":"info","message":"POST /mover/65af108260af331acc987207/end-mission/","timestamp":"2024-01-23T01:08:39.722Z"}
+{"details":{"moverId":"65af108260af331acc987207"},"level":"info","message":"Mission ended, items unloaded","timestamp":"2024-01-23T01:08:39.768Z"}
+{"level":"info","message":"POST /mover/65af108960af331acc98720a/load/","timestamp":"2024-01-23T01:09:31.067Z"}
+{"level":"info","message":"POST /mover/65af108960af331acc98720a/load/","timestamp":"2024-01-23T01:10:02.690Z"}
+{"details":{"itemId":"65af0f2bed49f652891d1f3b","moverId":"65af108960af331acc98720a"},"level":"info","message":"Item loaded, Mover is now loading","timestamp":"2024-01-23T01:10:02.722Z"}
+{"level":"info","message":"POST /mover/65af108960af331acc98720a/load/","timestamp":"2024-01-23T01:10:04.001Z"}
+{"level":"info","message":"POST /mover/65af108960af331acc98720a/load/","timestamp":"2024-01-23T01:10:15.114Z"}
+{"details":{"moverId":"65af108260af331acc987207"},"level":"error","message":"Mover cannot end mission while not on a mission","timestamp":"2024-01-23T01:17:20.068Z"}
+{"details":{"moverId":"65af1676c1445f8b233ae645"},"level":"info","message":"Magic Mover added","timestamp":"2024-01-23T01:29:26.656Z"}
+{"details":{"moverId":"65af168cc1445f8b233ae649"},"level":"info","message":"Magic Mover added","timestamp":"2024-01-23T01:29:48.036Z"}
+{"details":{"itemId":"65af169ac1445f8b233ae64d"},"level":"info","message":"Magic Item added","timestamp":"2024-01-23T01:30:02.750Z"}
+{"details":{"itemId":"65af16a1c1445f8b233ae650"},"level":"info","message":"Magic Item added","timestamp":"2024-01-23T01:30:09.817Z"}
+{"details":{"itemId":"65af16a8c1445f8b233ae653"},"level":"info","message":"Magic Item added","timestamp":"2024-01-23T01:30:16.550Z"}
+{"details":{"itemId":"65af16b6c1445f8b233ae657"},"level":"info","message":"Magic Item added","timestamp":"2024-01-23T01:30:30.775Z"}
+{"details":{"itemId":"65af169ac1445f8b233ae64d","moverId":"65af1676c1445f8b233ae645"},"level":"info","message":"Item loaded, Mover is now loading","timestamp":"2024-01-23T01:31:08.531Z"}
+{"details":{"itemId":"65af16a1c1445f8b233ae650","moverId":"65af1676c1445f8b233ae645"},"level":"info","message":"Item loaded, Mover is now loading","timestamp":"2024-01-23T01:31:23.590Z"}
+{"details":{"itemId":"65af16a8c1445f8b233ae653","moverId":"65af168cc1445f8b233ae649"},"level":"info","message":"Item loaded, Mover is now loading","timestamp":"2024-01-23T01:32:10.935Z"}
+{"details":{"itemId":"65af16b6c1445f8b233ae657","moverId":"65af168cc1445f8b233ae649"},"level":"info","message":"Item loaded, Mover is now loading","timestamp":"2024-01-23T01:32:38.953Z"}
+{"details":{"moverId":"65af1676c1445f8b233ae645"},"level":"info","message":"Mission started","timestamp":"2024-01-23T01:33:13.595Z"}
+{"details":{"moverId":"65af1676c1445f8b233ae645"},"level":"info","message":"Mission ended, items unloaded","timestamp":"2024-01-23T01:33:46.302Z"}
+{"details":{"itemId":"65af16a1c1445f8b233ae650","moverId":"65af168cc1445f8b233ae649"},"level":"info","message":"Item loaded, Mover is now loading","timestamp":"2024-01-23T01:34:45.663Z"}
